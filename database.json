@@ -1,0 +1,24 @@
+[
+    {
+        "Name": "Khan",
+        "Email_Id": "a@gmail.com",
+        "Phone_No": "7489247019",
+        "PIN": "5555",
+        "Account_No": "Df9T9r1w1",
+        "Balance": 12000,
+        "Transactions": [
+            {
+                "Type": "Deposit",
+                "Amount": 20000
+            },
+            {
+                "Type": "Withdraw",
+                "Amount": 5000
+            },
+            {
+                "Type": "Fund transferred to Brock",
+                "Amount": 3000
+            }
+        ]
+    }
+]
