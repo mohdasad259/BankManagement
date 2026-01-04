@@ -1,0 +1,142 @@
+[
+    {
+        "Room_No": "001",
+        "Room_Type": "Single (Non-Ac)",
+        "Price": 1500,
+        "Capacity": 2,
+        "Available": true
+    },
+    {
+        "Room_No": "002",
+        "Room_Type": "Single (Non-Ac)",
+        "Price": 1500,
+        "Capacity": 2,
+        "Available": true
+    },
+    {
+        "Room_No": "003",
+        "Room_Type": "Single (Non-Ac)",
+        "Price": 1500,
+        "Capacity": 2,
+        "Available": true
+    },
+    {
+        "Room_No": "004",
+        "Room_Type": "Single (Non-Ac)",
+        "Price": 1500,
+        "Capacity": 2,
+        "Available": true
+    },
+    {
+        "Room_No": "005",
+        "Room_Type": "Single (Non-Ac)",
+        "Price": 1500,
+        "Capacity": 2,
+        "Available": true
+    },
+    {
+        "Room_No": "101",
+        "Room_Type": "Single (Ac)",
+        "Price": 2000,
+        "Capacity": 2,
+        "Available": true
+    },
+    {
+        "Room_No": "102",
+        "Room_Type": "Single (Ac)",
+        "Price": 2000,
+        "Capacity": 2,
+        "Available": true
+    },
+    {
+        "Room_No": "103",
+        "Room_Type": "Single (Ac)",
+        "Price": 2000,
+        "Capacity": 2,
+        "Available": true
+    },
+    {
+        "Room_No": "104",
+        "Room_Type": "Single (Ac)",
+        "Price": 2000,
+        "Capacity": 2,
+        "Available": true
+    },
+    {
+        "Room_No": "105",
+        "Room_Type": "Single (Ac)",
+        "Price": 2000,
+        "Capacity": 2,
+        "Available": true
+    },
+    {
+        "Room_No": "201",
+        "Room_Type": "Double (Non-Ac)",
+        "Price": 3000,
+        "Capacity": 4,
+        "Available": true
+    },
+    {
+        "Room_No": "202",
+        "Room_Type": "Double (Non-Ac)",
+        "Price": 3000,
+        "Capacity": 4,
+        "Available": true
+    },
+    {
+        "Room_No": "203",
+        "Room_Type": "Double (Non-Ac)",
+        "Price": 3000,
+        "Capacity": 4,
+        "Available": true
+    },
+    {
+        "Room_No": "204",
+        "Room_Type": "Double (Non-Ac)",
+        "Price": 3000,
+        "Capacity": 4,
+        "Available": true
+    },
+    {
+        "Room_No": "205",
+        "Room_Type": "Double (Non-Ac)",
+        "Price": 3000,
+        "Capacity": 4,
+        "Available": true
+    },
+    {
+        "Room_No": "301",
+        "Room_Type": "Double (Ac)",
+        "Price": 4000,
+        "Capacity": 4,
+        "Available": true
+    },
+    {
+        "Room_No": "302",
+        "Room_Type": "Double (Ac)",
+        "Price": 4000,
+        "Capacity": 4,
+        "Available": true
+    },
+    {
+        "Room_No": "303",
+        "Room_Type": "Double (Ac)",
+        "Price": 4000,
+        "Capacity": 4,
+        "Available": true
+    },
+    {
+        "Room_No": "304",
+        "Room_Type": "Double (Ac)",
+        "Price": 4000,
+        "Capacity": 4,
+        "Available": true
+    },
+    {
+        "Room_No": "305",
+        "Room_Type": "Double (Ac)",
+        "Price": 4000,
+        "Capacity": 4,
+        "Available": true
+    }
+]

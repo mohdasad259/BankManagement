@@ -1,0 +1,52 @@
+[
+    {
+        "Name": "Mohammad Asad Sagari",
+        "Phone": "7489247019",
+        "Aadhar": "123456789088",
+        "Room_No": "101",
+        "Price": 2000,
+        "Check_in": "2026-01-04 11:53:02.193483",
+        "Check_out": "2026-01-04 11:54:59.551152",
+        "Total_Bill": 2000
+    },
+    {
+        "Name": "Mohammad Asad Sagari",
+        "Phone": "7489247019",
+        "Aadhar": "123456789088",
+        "Room_No": "102",
+        "Price": 2000,
+        "Check_in": "2026-01-04 11:53:11.182623",
+        "Check_out": "2026-01-04 12:08:14.141350",
+        "Total_Bill": 2000
+    },
+    {
+        "Name": "Khan Sahab",
+        "Phone": "9893376683",
+        "Aadhar": "123456789044",
+        "Room_No": "301",
+        "Price": 4000,
+        "Check_in": "2026-01-04 11:53:54.796338",
+        "Check_out": "2026-01-04 11:56:59.921860",
+        "Total_Bill": 4000
+    },
+    {
+        "Name": "Saif Khan ",
+        "Phone": "9893376699",
+        "Aadhar": "123456789066",
+        "Room_No": "302",
+        "Price": 4000,
+        "Check_in": "2026-01-04 11:54:22.917906",
+        "Check_out": "2026-01-04 12:08:28.825533",
+        "Total_Bill": 4000
+    },
+    {
+        "Name": "Brock Lesner",
+        "Phone": "1234567890",
+        "Aadhar": "123456789099",
+        "Room_No": "101",
+        "Price": 2000,
+        "Check_in": "2026-01-04 14:46:01.185078",
+        "Check_out": "2026-01-04 14:46:08.239152",
+        "Total_Bill": 2000
+    }
+]
